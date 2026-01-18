@@ -2,7 +2,7 @@ package constants
 
 const (
 	AppName   = "criticism_research_agent"
-	ModelName = "gemini-3-flash-preview"
+	ModelName = "gemini-2.5-flash"
 
 	StateResearchFindings   = "research_findings"
 	StateReviewerFeedback   = "reviewer_feedback"

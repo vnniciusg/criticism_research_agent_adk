@@ -1,2 +1,2 @@
 web:
-	go run web_search_agent/agent.go web api webui
+	go run criticism_research_agent/agent.go web api webui

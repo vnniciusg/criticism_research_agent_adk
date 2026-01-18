@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/vnniciusg/web_search_agent/web_search_agent/internal/constants"
-	"github.com/vnniciusg/web_search_agent/web_search_agent/internal/subagents"
+	"github.com/vnniciusg/criticism_research_agent/criticism_research_agent/internal/constants"
+	"github.com/vnniciusg/criticism_research_agent/criticism_research_agent/internal/subagents"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/agent/workflowagents/sequentialagent"
 	"google.golang.org/adk/cmd/launcher"

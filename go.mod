@@ -1,4 +1,4 @@
-module github.com/vnniciusg/web_search_agent
+module github.com/vnniciusg/criticism_research_agent
 
 go 1.25.4
 

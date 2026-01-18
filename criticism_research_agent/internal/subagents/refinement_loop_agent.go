@@ -3,9 +3,9 @@ package subagents
 import (
 	"fmt"
 
-	"github.com/vnniciusg/web_search_agent/web_search_agent/internal/constants"
-	"github.com/vnniciusg/web_search_agent/web_search_agent/internal/prompts"
-	"github.com/vnniciusg/web_search_agent/web_search_agent/internal/tools"
+	"github.com/vnniciusg/criticism_research_agent/criticism_research_agent/internal/constants"
+	"github.com/vnniciusg/criticism_research_agent/criticism_research_agent/internal/prompts"
+	"github.com/vnniciusg/criticism_research_agent/criticism_research_agent/internal/tools"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/agent/llmagent"
 	"google.golang.org/adk/agent/workflowagents/loopagent"
